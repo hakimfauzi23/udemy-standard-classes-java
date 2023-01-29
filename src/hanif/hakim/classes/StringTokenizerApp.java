@@ -1,3 +1,5 @@
+package hanif.hakim.classes;
+
 import java.util.StringTokenizer;
 
 public class StringTokenizerApp {
