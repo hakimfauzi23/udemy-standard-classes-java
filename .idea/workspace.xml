@@ -5,9 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1a368112-a506-497b-96c6-faca22f24b10" name="Changes" comment="Java Proect Init [Intellij Project]">
-      <change afterPath="$PROJECT_DIR$/src/hanif/hakim/classes/RuntimeApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hanif/hakim/classes/SystemApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hanif/hakim/classes/UUIDApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hanif/hakim/classes/Base64App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hanif/hakim/classes/ObjectsApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/hanif/hakim/classes/RandomApp.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,9 +47,35 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;terminal&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.UUIDApp">
-    <configuration name="DateApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hanif.hakim.classes.DateApp" />
+  <component name="RunManager" selected="Application.RandomApp">
+    <configuration name="Base64App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hanif.hakim.classes.Base64App" />
+      <module name="java-standard-classes-udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hanif.hakim.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ObjectsApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hanif.hakim.classes.ObjectsApp" />
+      <module name="java-standard-classes-udemy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hanif.hakim.classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RandomApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="hanif.hakim.classes.RandomApp" />
       <module name="java-standard-classes-udemy" />
       <extension name="coverage">
         <pattern>
@@ -63,35 +89,6 @@
     </configuration>
     <configuration name="RuntimeApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hanif.hakim.classes.RuntimeApp" />
-      <module name="java-standard-classes-udemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hanif.hakim.classes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ScannerApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="hanif.hakim.classes.ScannerApp" />
-      <module name="java-standard-classes-udemy" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="hanif.hakim.classes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SystemApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <envs>
-        <env name="APP" value="LEARNING_JAVA_STANDARD_CLASSES" />
-      </envs>
-      <option name="MAIN_CLASS_NAME" value="hanif.hakim.classes.SystemApp" />
       <module name="java-standard-classes-udemy" />
       <extension name="coverage">
         <pattern>
@@ -117,19 +114,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.Base64App" />
+      <item itemvalue="Application.ObjectsApp" />
+      <item itemvalue="Application.RandomApp" />
       <item itemvalue="Application.RuntimeApp" />
       <item itemvalue="Application.UUIDApp" />
-      <item itemvalue="Application.DateApp" />
-      <item itemvalue="Application.ScannerApp" />
-      <item itemvalue="Application.SystemApp" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.RandomApp" />
+        <item itemvalue="Application.ObjectsApp" />
+        <item itemvalue="Application.Base64App" />
         <item itemvalue="Application.UUIDApp" />
         <item itemvalue="Application.RuntimeApp" />
-        <item itemvalue="Application.SystemApp" />
-        <item itemvalue="Application.DateApp" />
-        <item itemvalue="Application.ScannerApp" />
       </list>
     </recent_temporary>
   </component>
